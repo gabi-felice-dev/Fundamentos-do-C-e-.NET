@@ -1,0 +1,15 @@
+C:\GitGabi\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+C:\GitGabi\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+C:\GitGabi\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+C:\GitGabi\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+C:\GitGabi\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\refint\EditorTexto.dll
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
+C:\GitGabi\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll

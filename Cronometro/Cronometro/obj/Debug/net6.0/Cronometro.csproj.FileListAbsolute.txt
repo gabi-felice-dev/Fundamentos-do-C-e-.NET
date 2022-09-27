@@ -1,0 +1,15 @@
+C:\GitGabi\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\GitGabi\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\GitGabi\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\GitGabi\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\GitGabi\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+C:\GitGabi\Cronometro\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
